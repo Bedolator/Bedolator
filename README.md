@@ -1,0 +1,7 @@
+- 👋 Hi, I'm @Bedolator
+- 👀 I'm interested in AI programming of all kinds; Education, Health, Transportation, Finance, Marketing, Sales, Media, Entertainment, and Security.
+- 🌱 I'm currently learning with Phython.
+- 💞️ I'm looking to collaborate on AI projects.
+- 📫 How to contact me. My email: jordicelaya2019@gmail.com
+- 😄 Pronouns: Celaya or Bedolo.
+- ⚡ Fun fact: I love ducks
